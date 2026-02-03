@@ -51,16 +51,16 @@ const CONFIG = {
     celebration: {
         title: "YEAAAAAAYYY IM THE LUCKIEST PERSON IN THE WORLD",
         message: "Now text me, i miss you",
-        emojis: "💘‼️💯🌼🦖🐶"  // These will bounce around
+        emojis: "💘🌼🦖🐶"  // These will bounce around
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#F875AA",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#AEDEFC",     // Button color (should stand out against the background)
-        buttonHover: "#EDFFF0",          // Button hover color (slightly lighter than buttonBackground)
+        backgroundStart: "#2E3B3E",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#50666B",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#FD6378",     // Button color (should stand out against the background)
+        buttonHover: "#F9B8BE",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#FDEDED"             // Text color (make sure it's readable!)
     },
 
